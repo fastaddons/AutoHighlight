@@ -5,8 +5,15 @@
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fastaddons)
 
-[![librepay-patrons](https://img.shields.io/liberapay/patrons/juraj.masiar.svg?logo=liberapay)](https://liberapay.com/juraj.masiar/)
-[![librepay-receives](https://img.shields.io/liberapay/receives/juraj.masiar.svg?logo=liberapay)](https://liberapay.com/juraj.masiar/)
-
 # AutoHighlight
 This repository is for tracking bugs and documentation only
+
+### Help with translations
+https://github.com/fastaddons/locales  
+*Thank you!*
+
+### Privacy Policy
+[Read privacy policy here.](PRIVACY_POLICY.md)
+
+### License
+[Copyright 2016-2021 Juraj Mäsiar - All Rights Reserved](LICENSE)
